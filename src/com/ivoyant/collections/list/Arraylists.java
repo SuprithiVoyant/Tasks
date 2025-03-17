@@ -39,7 +39,6 @@ public class Arraylists {
         list.add(null);
         System.out.println(list);
     }
-
 }
 
 //ArrayList is a subclass of List Interface.
